@@ -1,5 +1,5 @@
 # Experiment-2--Implementation-of-Perceptron
-##AIM:
+## AIM:
 
 To implement a perceptron for classification using Python
 
